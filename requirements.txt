@@ -1,0 +1,9 @@
+# Required python packages. You can install them all via something like:
+#    pip install -r requirements.txt
+
+numpy
+rmg >= 3.0.0
+
+# For running the unit tests
+nose
+coverage

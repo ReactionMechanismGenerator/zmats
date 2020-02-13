@@ -1,0 +1,8 @@
+name: zmats_env
+channels:
+  - defaults
+  - rmg
+  - conda-forge
+dependencies:
+  - numpy
+  - rmg >= 3.0.0
