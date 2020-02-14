@@ -3,6 +3,7 @@
 
 numpy
 rmg >= 3.0.0
+qcelemental
 
 # For running the unit tests
 nose
