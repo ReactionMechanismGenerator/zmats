@@ -1,8 +1,9 @@
 zmats
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/zmats.svg?branch=master)](https://travis-ci.com/REPLACE_WITH_OWNER_ACCOUNT/zmats)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/zmats/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/zmats/branch/master)
+[![Travis Build Status](https://travis-ci.com/ReactionMechanismGenerator/zmats.svg?branch=master)](https://travis-ci.com/ReactionMechanismGenerator/zmats)
+[![codecov](https://codecov.io/gh/ReactionMechanismGenerator/zmats/branch/master/graph/badge.svg)](https://codecov.io/gh/ReactionMechanismGenerator/zmats/branch/master)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 A Z-matrix module written in Python
 
