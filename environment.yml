@@ -6,3 +6,4 @@ channels:
 dependencies:
   - numpy
   - rmg >= 3.0.0
+  - qcelemental
